@@ -6,7 +6,7 @@
 
 Hosting  CDN assets for projects made by @TheNikhilK.
 
-For more details visit: [TheNikhilK.com](www.thenikhilk.com)
+For more details visit: [TheNikhilK.com](https://thenikhilk.com/)
 
 ## Package Directory
 
